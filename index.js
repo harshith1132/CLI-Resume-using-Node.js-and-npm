@@ -85,6 +85,6 @@ Soft Skills: Problem Solving, Teamwork, Communication
 • International Workshop on Data Science using Python (2024)
 
 ════════════════════════════════════════════════════
-▶ Run: npx @muthineni-harshith-7a868b295
+▶ Run: npx @harshith171/muthineni-harshith-7a868b295
 ════════════════════════════════════════════════════
 `);
