@@ -1,0 +1,10 @@
+{
+  "name": "@harshith171/muthineni-harshith-7a868b295",
+  "version": "1.0.0",
+  "description": "Terminal resume of Muthineni Harshith",
+  "bin": {
+    "muthineni-harshith-7a868b295": "index.js"
+  },
+  "author": "Muthineni Harshith",
+  "license": "MIT"
+}
